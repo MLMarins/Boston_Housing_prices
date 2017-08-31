@@ -22,11 +22,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook boston_housing_Kaggle.ipynb
 ```  
 or
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook boston_housing_Kaggle.ipynb
 ```
 
 This will open the Jupyter Notebook software and project file in your browser.
